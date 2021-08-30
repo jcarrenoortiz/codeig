@@ -1,5 +1,6 @@
 <?php
 echo "hoa";
+echo "Se";
 /*class Mysql{
     private $host='localhost';
     private $user='root';
